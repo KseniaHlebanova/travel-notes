@@ -55,3 +55,5 @@ AUTH_SECRET='YOUR_SECRET_KEY_HERE'
 Open your browser and navigate to http://localhost:3000 to access the application.
 
 5. **Demo video**
+
+![Описание GIF](content/signup.gif)
